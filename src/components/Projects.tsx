@@ -31,15 +31,15 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop',
     technologies: ['React', 'Firebase', 'Tailwind CSS'],
     // github: 'https://github.com/krishnapatidar/restaurant-management',
-    // demo: 'https://restaurant-management-demo.com'
+    demo: 'https://gamma.app/docs/Digitizing-the-Dining-Experience-wktbfozomwwvvmb?follow_on_start=true&following_id=tbj2nzpwodphdih&mode=doc'
   },
   {
     title: 'Personal Portfolio Website',
     description: 'Modern portfolio website with animations and responsive design.',
     image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop',
     technologies: ['React', 'Framer Motion', 'Tailwind CSS'],
-    // github: 'https://github.com/krishnapatidar/portfolio',
-    // demo: 'https://krishnapatidar.com'
+    github: 'https://github.com/krishna-patidarpatidar/my-portfolio-',
+    demo: 'https://krishnapatidarportfolio.netlify.app/'
   }
 ];
 
